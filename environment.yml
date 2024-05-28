@@ -16,7 +16,6 @@ dependencies:
   - pytest==8.0.0
   - regex==2023.12.25
   - Requests==2.31.0
-  - sample==1.0.0
   - scipy==1.12.0
   - setuptools==69.0.2
   - spacy==3.7.2
